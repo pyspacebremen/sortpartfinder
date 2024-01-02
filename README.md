@@ -5,6 +5,10 @@ Finde sortierte Teile in deiner Werkstatt.
 ## Layout
 
 
+
+
+
+
 ## Datenbank
 ### SQLite
 Für den ersten start sollte ein SQLite ausreichen
