@@ -2,6 +2,11 @@
 
 Finde sortierte Teile in deiner Werkstatt.
 
+
+![Schrank](/picture/schrank.png)
+
+![Schublade](/picture/Schublade.png)
+
 ## Layout
 
 
