@@ -20,6 +20,9 @@ Für den ersten start sollte ein SQLite ausreichen
 #### Orte
 #### Bilder
 
+### ERDiagramm
+
+![ERDiagramm](/picture/db.sqlite.png)
 
 ## User Interface
 ### Benutzer anlegen
