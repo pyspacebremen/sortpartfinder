@@ -9,10 +9,7 @@ Finde sortierte Teile in deiner Werkstatt.
 
 ## Layout
 
-
-
-
-
+![Layout](/picture/lauout.png)
 
 ## Datenbank
 ### SQLite
